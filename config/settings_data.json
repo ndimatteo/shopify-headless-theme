@@ -10,6 +10,25 @@
 {
   "current": {
     "storefront_hostname": "hull.dev",
+    "colors_accent_1": "#b43384",
+    "colors_accent_2": "#b43384",
+    "colors_text": "#f1f1f1",
+    "colors_outline_button_labels": "#f1f1f1",
+    "colors_background_1": "#000000",
+    "colors_background_2": "#000000",
+    "type_header_font": "germania_one_n4",
+    "type_body_font": "anonymous_pro_n4",
+    "page_width": 1000,
+    "spacing_grid_horizontal": 8,
+    "spacing_grid_vertical": 20,
     "content_for_index": []
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "body {display: flex; flex-direction: column; justify-content: center; padding: 2rem; font-size: 1.5rem;}",
+      "h1 {margin: 0; font-size: 1.8rem; letter-spacing: 0.1em; font-weight: 400;}",
+      "p {margin: 0; font-size: 1.2rem; color: #f1f1f1;}",
+      "a {color: #f1f1f1;}"
+    ]
   }
 }
