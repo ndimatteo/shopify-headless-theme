@@ -1,8 +1,35 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
-      "type": "main-redirect"
+      "type": "main-redirect",
+      "settings": {}
+    },
+    "17653966803147bd1c": {
+      "type": "apps",
+      "blocks": {
+        "recharge_subscriptions_subscription_widget_v2_MmrLjX": {
+          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget-v2/371eed76-0b44-4869-9813-730372ea378e",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "recharge_subscriptions_subscription_widget_v2_MmrLjX"
+      ],
+      "settings": {}
     }
   },
-  "order": ["main"]
+  "order": [
+    "main",
+    "17653966803147bd1c"
+  ]
 }
